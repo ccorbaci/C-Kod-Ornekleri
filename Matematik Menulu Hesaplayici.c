@@ -14,7 +14,6 @@ int main() {
 	printf("5-Basit 4 Islem Hesaplama\n");
 	printf("6-Sayi tek mi cift mi? \n");
 	printf("7-Hangi Sayi Buyuk? \n");
-	printf("8-Ideal Kilonuzu Hesaplatin \n");
 	printf("****************\n");
 	
 	printf("Lutfen Menu Numarasi Girin\n");
@@ -129,6 +128,7 @@ int main() {
 			}
 			else{
 				printf("%d Sayisi %d Sayisindan Kucuktur",sayi1Case7,sayi2Case7);
+			
 			}
 			break;
 		}					
