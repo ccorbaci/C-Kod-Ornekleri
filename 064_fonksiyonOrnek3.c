@@ -9,14 +9,12 @@ int kupbul(int sayi)
 	return sonuc;
 }
 
+
 int main() {
 	
 	int s;
 	printf("Sayiyi Giriniz: ");
 	scanf("%d",&s);
-	
-	kupbul(s);
-	
 	printf("Sonuc : %d",kupbul(s));
 
 	return 0;
