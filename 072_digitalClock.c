@@ -33,7 +33,7 @@ int main() {
 			h=1;
 		}
 		printf("\n Clock : ");
-		printf("\n %2d : %2d : %2d",h,m,s);
+		printf("\n %02d : %02d : %02d",h,m,s);
 		Sleep(d);
 		system("cls");
 	}
