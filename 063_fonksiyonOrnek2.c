@@ -15,4 +15,5 @@ int main() {
 	printf("%d",t);
 			
 	return 0;
+	
 }
